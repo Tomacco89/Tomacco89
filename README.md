@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomacco89" alt="tomacco89" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/gerardselian" target="blank"><img src="https://img.shields.io/twitter/follow/gerardselian?logo=twitter&style=for-the-badge" alt="gerardselian" /></a> </p>
 
 - 🧠 I’m currently learning **I am currently honing my programming skills while venturing into the dynamic field of DevOps.**
 
@@ -18,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gerardselian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gerardselian" height="30" width="40" /></a>
-<a href="https://es.linkedin.com/in/gerardo-acevedo-00246327b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gerardo acevedo" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/gerards-acevedo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gerardo acevedo" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22152882/gerardo-acevedo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gerardo acevedo" height="30" width="40" /></a>
 </p>
 
